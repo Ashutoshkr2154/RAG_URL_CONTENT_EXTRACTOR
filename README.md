@@ -1,4 +1,4 @@
-# RAG_URL_CONTENT_EXTRACTOR 
+
 # RAG_URL_CONTENT_EXTRACTOR
 
 This project is an end-to-end **Retrieval-Augmented Generation (RAG)** system that extracts content from a main URL and its child URLs, builds a searchable knowledge base, and answers user questions via an API.

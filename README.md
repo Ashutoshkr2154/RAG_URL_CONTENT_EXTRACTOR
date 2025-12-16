@@ -33,3 +33,13 @@ The system uses **Hybrid Retrieval (BM25 + FAISS)** for accurate and context-awa
 ```bash
 pip install -r requirements.txt
 uvicorn app:app --reload
+
+## Post /ASK
+{
+  "question": "What is the ISO Businessowners Program?"
+}
+##Response
+
+{
+  "answer": "policy provides a package of insurance coverages..."
+}
